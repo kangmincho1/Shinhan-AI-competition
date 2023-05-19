@@ -1,1 +1,1 @@
-# Shinhan-AI-competition
+# ShinhanAI-competition
