@@ -1,21 +1,21 @@
 # 신한AI, 보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회
 
-## Overview
+### Overview
 - 환전 타이밍 추천 서비스:
 - 특정 기간의 저렴한 환율 국가 추천 서비스:
 
-## Features
+### Features
 
-## Data Sources
+### Data Sources
 
-## Models and Evaluation
+### Models and Evaluation
 
-## Repository Structure
+### Repository Structure
 
-## Getting Started
+### Getting Started
 
-## Usage
+### Usage
 
-## Contributors
+### Contributors
 
-## Acknowledgments
+### Acknowledgments
