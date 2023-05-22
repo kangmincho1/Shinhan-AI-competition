@@ -23,8 +23,6 @@
 - 모델: LSTM, GRU, CNN, Linear
 - 평가 지표: MAPE, DTW
 
-### Repository Structure
-
 ### Getting Started
 
 ### Usage
