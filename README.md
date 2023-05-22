@@ -1,6 +1,5 @@
 ## 신한AI, 보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회
 
-![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/2a24f61a-881d-4714-a8d1-f65dfc2cce74)
 
 ### Overview
 코로나19의 엔데믹이 다가오면서 해외여행을 계획하는 사람들이 많아지고 있습니다. 이에 따라, 많은 사람들이 해외여행을 고려하고 있습니다. 해외여행을 하는데에 있어서 환전은 필수적이며, 저렴하게 환전을 할 수 있다면 좋을 것입니다.
@@ -8,11 +7,10 @@
 저희는 크게 두가지의 서비스에 대한 아이디어를 제시합니다.
 
 - 환전 타이밍 추천 서비스: 여행객들이 가고자하는 국가의 환율을 예측하여, 환율이 저렴한 시점을 추천해 그 시점에 환전을 하게끔 하는 서비스
-- ![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/19663055-448e-42dc-a13a-9a4ca77024e0)
+![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/19663055-448e-42dc-a13a-9a4ca77024e0)
 
 - 특정 기간의 저렴한 환율 국가 추천 서비스: 아직 여행지를 정하지 못한 여행객들을 위하여, 여러 국가의 환율을 예측하여 특정 기간에서 환율이 저렴한 국가를 추천해주는 서비스
-- ![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/d507cefe-aa5d-455f-9ac1-63e04d8b43c1)
-
+![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/d507cefe-aa5d-455f-9ac1-63e04d8b43c1)
 
 ### Data
 데이터는 한국, 미국, 중국, 일본, 유로존, 영국의 2013년 1월 1일부터 2022년 12월 31일까지의 소비자 물가지수, GDP, 국채금리, 실업률, 환율, 주요 주가지수로 이루어져있습니다.
