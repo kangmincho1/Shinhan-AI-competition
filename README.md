@@ -20,9 +20,8 @@
 - https://finance.yahoo.com/
 
 ### Models and Evaluation
-- 모델:
-- 평가 지표:
-- 결과:
+- 모델: LSTM, GRU, CNN, Linear
+- 평가 지표: MAPE, DTW
 
 ### Repository Structure
 
