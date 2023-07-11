@@ -28,7 +28,7 @@
 ![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/9e903f11-b371-4345-a71b-0cda0a158b77)
 
 - Service 2
-- ![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/1e7f79bb-4325-4dbb-87e7-75e41234ebbf)
+![image](https://github.com/kangmincho1/ShinhanAI-competition/assets/72463778/1e7f79bb-4325-4dbb-87e7-75e41234ebbf)
 
 
 
