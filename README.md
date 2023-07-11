@@ -20,13 +20,5 @@
 - https://finance.yahoo.com/
 
 ### Models and Evaluation
-- 모델: LSTM, GRU, CNN, Linear
-- 평가 지표: MAPE, DTW
-
-### Getting Started
-
-### Usage
-
-### Contributors
-
-### Acknowledgments
+- Nerwork: CNN
+- Metrics: MSE, MAE, MAPE, DTW
