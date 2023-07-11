@@ -22,3 +22,7 @@
 ### Models and Evaluation
 - Nerwork: CNN
 - Metrics: MSE, MAE, MAPE, DTW
+
+### Rank
+A total of 1196 participants
+22nd out of 67 teams
